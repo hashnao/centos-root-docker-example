@@ -1,4 +1,4 @@
 FROM centos:centos7
-MAINTAINER https://github.com/hashnao/
+MAINTAINER Naoya Hashimoto <nhashimo@redhat.com>
 USER root
 CMD while true; do sleep 1; done
